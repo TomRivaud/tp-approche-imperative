@@ -39,8 +39,5 @@ public class InteractifStockageNombre {
             int iShowArray;
             //for (iShowArray=0; iShowArray<newArray.length)
         }
-
-        //https://codegym.cc/groups/posts/add-new-element-to-array
-
     }
 }
